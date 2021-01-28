@@ -1849,3 +1849,53 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2021-01-28 12:26:38,696 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-01-28 12:26:38,699 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-01-28 12:26:38,700 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\productservice\src\test\resources
+2021-01-28 15:38:11,251 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-28 15:40:16,072 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 15:40:16,078 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-28 15:40:16,097 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-28 15:40:16,101 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 15:40:16,102 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\couponservice\src\test\resources
+2021-01-28 15:40:30,304 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 15:40:30,305 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-28 15:40:30,310 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-28 15:40:30,313 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 15:40:30,314 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\productservice\src\test\resources
+2021-01-28 15:40:56,628 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-01-28 15:41:10,420 [Worker-17: Launching couponservice (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\couponservice
+2021-01-28 15:41:10,425 [Worker-17: Launching couponservice (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -DskipTests -Dstyle.color=always
+2021-01-28 15:41:36,840 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-01-28 15:41:46,044 [Worker-20: Launching productservice (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\productservice
+2021-01-28 15:41:46,044 [Worker-20: Launching productservice (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -DskipTests -Dstyle.color=always
+2021-01-28 22:15:49,684 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-28 22:16:46,888 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:16:46,896 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-28 22:16:46,915 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-28 22:16:46,918 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:16:46,919 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\couponservice\src\test\resources
+2021-01-28 22:17:09,029 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:17:09,029 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-28 22:17:09,033 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-28 22:17:09,036 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:17:09,037 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\productservice\src\test\resources
+2021-01-28 22:17:21,069 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-01-28 22:17:22,228 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bharath.springcloud:productservice:0.0.1-SNAPSHOT @ C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\productservice\pom.xml.
+2021-01-28 22:17:23,103 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bharath.springcloud:couponservice:0.0.1-SNAPSHOT @ C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\couponservice\pom.xml.
+2021-01-28 22:17:25,029 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /couponservice/src/main/java
+2021-01-28 22:17:25,030 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /couponservice/src/main/resources
+2021-01-28 22:17:25,031 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /couponservice/src/main/resources
+2021-01-28 22:17:25,032 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /couponservice/src/test/java
+2021-01-28 22:17:25,438 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productservice/src/main/java
+2021-01-28 22:17:25,438 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productservice/src/main/resources
+2021-01-28 22:17:25,439 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /productservice/src/main/resources
+2021-01-28 22:17:25,439 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /productservice/src/test/java
+2021-01-28 22:17:26,375 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2021-01-28 22:17:28,558 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:17:28,559 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-28 22:17:28,578 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-28 22:17:28,589 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:17:28,590 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\couponservice\src\test\resources
+2021-01-28 22:17:29,912 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:17:29,913 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-28 22:17:29,916 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-28 22:17:29,918 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-28 22:17:29,921 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\productservice\src\test\resources
