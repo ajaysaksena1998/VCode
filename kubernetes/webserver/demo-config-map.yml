@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+    name: demo-config-map
+data:
+    init.sql.db:
+        select * from product;
+        select * from coupon; 
+    keys:
+        dhdwhxwixhwixwihiw
+        d29292992939399290
