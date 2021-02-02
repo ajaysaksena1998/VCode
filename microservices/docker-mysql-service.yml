@@ -9,8 +9,7 @@ spec:
         app: docker-mysql
     type: NodePort
     ports:
-        - nodePort: 30282
-          port: 3306
+        - port: 3306
           targetPort: 3306
-          
+          nodePort: 30287
           

@@ -17,4 +17,4 @@ spec:
         spec:
             containers:
                 - name: product-app
-                  image: ajaysaksena123456789/productservice
+                  image: ajaysaksena123456789/product_app

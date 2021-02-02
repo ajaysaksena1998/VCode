@@ -7,8 +7,8 @@ metadata:
 spec:
     type: NodePort
     ports:
-        - port: 9097
-          targetPort: 9097
+        - port: 9091
+          targetPort: 9091
           nodePort: 30288
     selector:
         app: coupon-app

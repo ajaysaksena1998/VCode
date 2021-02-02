@@ -27,6 +27,7 @@ public class CouponRestController {
 
 	@RequestMapping(value = "/coupons/{code}", method = RequestMethod.GET)
 	public Coupon getCoupon(@PathVariable("code") String code) {
+		System.out.println("Second Server");
 		return repo.findByCode(code);
 
 	}

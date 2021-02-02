@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\01-hello-world-rest-api"/>
+			<item value="C:\Users\saksenaaj\OneDrive - VMware, Inc\VMwareCorp\Desktop\pcf-crash-course-with-spring-boot-master\01-hello-world-rest-api"/>
 			<item value="C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\productservice"/>
 			<item value="C:\Users\saksenaaj\OneDrive - VMware, Inc\Spring Workplace\couponservice"/>
 		</list>
